@@ -3,3 +3,25 @@ INFO:root:Constructing parser
 INFO:root:Constructing parser
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+ERROR:root:FIXME: Unimplemented - put('Test', 'This is a test snippet')
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+ERROR:root:FIXME: Unimplemented - put('Test', 'This is a test snippet')
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+ERROR:root:FIXME: Unimplemented - put('Test', 'This is a test')
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+ERROR:root:FIXME: Unimplemented - put('Test', 'This is a test')
